@@ -40,10 +40,6 @@ The former vendor prefix works in Safari on Mac OS and iOS, while the latter wor
 
 system-ui should be sufficient without -apple-system and BlinkMacSystemFont, but I’ve kept them for backwards compatibility.
 
-If you wish to remove them, then the following order is currently used by Bootstrap:
-
-`system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif`
-
-We can modify this for Arabic as follows:
+If you wish to remove them, then we can modify this for Arabic as follows:
 
 `system-ui, -apple-system, Dubai, "Segoe UI", Tahoma, "Noto Sans Arabic UI", "Dejavu Sans", Arial, sans-serif`
