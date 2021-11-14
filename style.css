@@ -3,7 +3,7 @@
  */
 body,
 .serif {
-  font-family: "Geeza Pro", Roboto, Noto, "Noto Naskh Arabic", "Droid Serif", "Times New Roman", serif; 
+  font-family: "Geeza Pro", "Noto Naskh Arabic", "Droid Serif", "Times New Roman", serif; 
 }
 
 /* Sans-serif Arabic font stack 
@@ -11,5 +11,5 @@ body,
  */
 h1, h2, h3, h4, h5, h6,
 .sans-serif {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, Dubai, "Segoe UI", Tahoma, "Noto Sans Arabic UI","Dejavu Sans", sans-serif;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, Dubai, "Segoe UI", Tahoma, "Noto Sans Arabic UI","Dejavu Sans", Arial, sans-serif;
 }
