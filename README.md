@@ -1,8 +1,9 @@
-# arabic-system-font-stack
+# Arabic System Font Stack
 CSS font stack for Arabic system fonts
 
 ## Serif
 
+`font-family: "Geeza Pro", "Noto Naskh Arabic", "Droid Serif", "Times New Roman", serif;`
 
 | System Font                        | OS                                          |
 |------------------------------------|---------------------------------------------|
@@ -13,6 +14,7 @@ CSS font stack for Arabic system fonts
 | sans-serif                         | Fallback                                    |
 
 ## Sans-serif
+`font-family: -apple-system, system-ui, BlinkMacSystemFont, Dubai, "Segoe UI", Tahoma, "Noto Sans Arabic UI","Dejavu Sans", Arial, sans-serif;`
 
 | System Font                        | OS                                          |
 |------------------------------------|---------------------------------------------|
